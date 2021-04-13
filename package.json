@@ -1,6 +1,6 @@
 {
   "name": "string-lib",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "capitalize(str)",
   "main": "index.js",
   "scripts": {
