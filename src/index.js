@@ -110,7 +110,7 @@ console.log(shift("shift"))
 console.log(makeHashTag("make hash tag"))
 console.log(isEmpty(" "))
 
-export default {
+module.exports = {
   capitalize,
   capitalizeWords,
   capitalizeHeadline,
