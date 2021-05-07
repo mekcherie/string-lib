@@ -1,4 +1,6 @@
 # string-lib
+[![Coverage Status](https://coveralls.io/repos/github/mekcherie/string-lib/badge.svg?branch=master)](https://coveralls.io/github/mekcherie/string-lib?branch=master)
+
 
 capitalize(str)
 
