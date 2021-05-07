@@ -3,22 +3,22 @@
 
 [![Build Status](https://travis-ci.com/mekcherie/string-lib.svg?branch=master)](https://travis-ci.com/mekcherie/string-lib)
 
-capitalize(str)
+<li>capitalize(str)</li>
 
-capitalizeWords(str)
+<li>capitalizeWords(str)</li>
 
-capitalizeHeadline(str)
+<li>capitalizeHeadline(str)</li>
 
-removeExtraSpaces(str)
+<li>removeExtraSpaces(str)</li>
 
-kebobCase(str)
+<li>kebobCase(str)</li>
 
-snakeCase(str)
+<li>snakeCase(str)</li>
 
-camelCase(str)
+<li>camelCase(str)</li>
 
-shift(str)
+<li>shift(str)</li>
 
-makeHashTag(str)
+<li>makeHashTag(str)</li>
 
-isEmpty(str)
+<li>isEmpty(str)</li>
