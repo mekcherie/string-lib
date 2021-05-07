@@ -4,6 +4,7 @@
   "description": "capitalize(str)",
   "main": "index.js",
   "scripts": {
+  "coveralls": "jest --coverage --coverageReporters=text-lcov | coveralls",
     "test": "jest"
   },
   "keywords": [],
